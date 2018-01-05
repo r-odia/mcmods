@@ -1,0 +1,3 @@
+Disables item tooltips in inventories unless the sneak key is held.
+
+Conflicts: Anything that modifies GuiContainer (id.class)

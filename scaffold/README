@@ -1,0 +1,13 @@
+Adds wooden scaffolds, a cheap, easily breakable box useful in construction.
+
+Recipe:
+
+WWW
+ S
+S S
+
+Where 'W' is a wooden plank and 'S' is a stick. Yields 16.
+
+Requires ModLoader. Uses blockID 215.
+
+Conflicts: None!

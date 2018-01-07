@@ -2,6 +2,8 @@ Like the alpha winter mode, this mod makes it snow everywhere all the time.
 Uninstalling will cause snow and ice to melt in places where it would
 normally. Also allows snow to fall on top of glass blocks.
 
+Required ModLoader.
+
 Conflicts: Anything that modifies BiomeGenBase (kd.class)
            Anything that modifies World (fd.class)
 

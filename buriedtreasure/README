@@ -1,0 +1,8 @@
+Adds buried treasure chests in sandy locations, including underwater.
+Underwater chests can have rarer loot.
+
+TODO: A proper loot table API.
+
+Requires ModLoader.
+
+Conflicts: None!

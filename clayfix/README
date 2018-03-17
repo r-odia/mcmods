@@ -1,0 +1,5 @@
+NOTE: This mod is for version beta 1.6.6.
+
+Fixes a bug that causes clay to be very rare. Patched in vanilla beta 1.7.
+
+Conflicts: Anything that modifies WorldGenClay (mo.class)

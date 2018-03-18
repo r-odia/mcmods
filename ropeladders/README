@@ -1,0 +1,23 @@
+Adds rope ladders which don't need support (except at the top!) and can be
+easily wound and unwound.
+
+Right click on a rope ladder with rope ladders in hand to extend the ladder
+downwards by one. Shift-Right click on a rope ladder to wind it up by one.
+
+Recipe:
+
+S S
+SWS
+S S
+
+Where 'W' is string  and 'S' is a stick. Yields 2.
+
+Requires ModLoader. Uses blockID 245.
+
+Conflicts: Anything that modifies EntityLiving (ls.class). That file requires
+a small edit to allow rope ladders to behave as normal ladders.
+
+Note: The modification for EntityLiving should work with all mods that add
+ladders, provided they extended BlockLadder. If you're developing a ladder
+mod, you can probably just copy this EntityLiving into your mod to ensure
+compatibility!

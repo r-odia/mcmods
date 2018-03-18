@@ -1,0 +1,5 @@
+Programmatically overrides the cobblestone texture to the pre beta 1.7.3
+version.
+
+Conflicts: None, but you probably don't want this if you're using a texture
+pack.

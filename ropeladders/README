@@ -10,7 +10,7 @@ S S
 SWS
 S S
 
-Where 'W' is string  and 'S' is a stick. Yields 2.
+Where 'S' is string  and 'W' is a stick. Yields 2.
 
 Requires ModLoader. Uses blockID 245.
 
